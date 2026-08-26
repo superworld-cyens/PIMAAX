@@ -1,0 +1,8 @@
+pyyaml
+gpsd-py3
+sparkfun-qwiic-rv8803
+sparkfun-qwiic-tmp117
+adafruit-blinka
+board
+busio
+adafruit_ads1x15

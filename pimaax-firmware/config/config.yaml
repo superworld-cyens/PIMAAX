@@ -1,0 +1,15 @@
+sensors:
+  temperature:
+    addresses: [0x49, 0x4A, 0x4B]
+  adc:
+    addresses: [0x48]
+
+logging:
+  log_dir: "/home/chirag/pimaax-firmware/data/logs"
+  webserver_data_path: "/home/chirag/webserver_data"
+  log_format: "json"
+  tag: "sensordata"
+
+
+
+  
