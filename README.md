@@ -121,7 +121,7 @@ PiMaax measurements contribute to Urban Heat Island mapping and climate risk ana
       <img src="docs/images/logo-limassol.png" alt="Limassol Municipality" height="60">
     </td>
     <td align="center">
-      <img src="docs/images/logo-Nicosia.png" alt="Nicosia Municipality" height="60">
+      <img src="docs/images/logo-nicosia.png" alt="Nicosia Municipality" height="60">
     </td>
     <td align="center">
       <img src="docs/images/logo-p2r.png" alt="Pathways2Resilience" height="90">
