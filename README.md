@@ -97,12 +97,9 @@ PiMaax measurements are used as part of a broader Urban Heat Island
 mapping framework combining in situ observations, remote sensing,
 geospatial information, and data driven modelling.
 
-Related research:
+Research Paper:
 
-Karatsiolis, S., Hadjinicolaou, P., Padubidri, C., and Kamilaris, A.\
-"Decomposing Urban Heat Islands at Micro-Level: A Hybrid
-Physics-Inspired and Data-Driven Modelling Framework."\
-Available at SSRN 6805812.
+Karatsiolis, S., Hadjinicolaou, P., Padubidri, C., and Kamilaris, A. "Decomposing Urban Heat Islands at Micro-Level: A Hybrid Physics-Inspired and Data-Driven Modelling Framework." Available at SSRN 6805812.
 
 PiMaax measurements contribute to Urban Heat Island mapping and climate risk analysis.
 [Open the interactive CYENS Climate Risks Platform](https://climate-risks.cyens.org.cy/)
